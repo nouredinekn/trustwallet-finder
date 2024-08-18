@@ -1,0 +1,6 @@
+_TRUST WALET HIT _ 
+: balances: $0.00  
+ seedphrase: ['century', 'edit', 'believe', 'drill', 'biology', 'cube', 'alpha', 'certain', 'cattle', 'drum', 'common', 'faith'] 
+_TRUST WALET HIT _ 
+: balances: $0.00  
+ seedphrase: ['duty', 'corn', 'coffee', 'boy', 'aim', 'chair', 'bacon', 'fabric', 'deer', 'else', 'choose', 'fatigue'] 
